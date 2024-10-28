@@ -16,3 +16,4 @@
 - PrimeFaces
 - WildFly
 - PostgreSql
+- Maven
